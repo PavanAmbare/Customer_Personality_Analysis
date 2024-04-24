@@ -67,7 +67,7 @@ Provided recommendations for each cluster, such as targeted marketing strategies
 
   
 ## skills and tools 
--  Python: For data cleaning, analysis, and visualization.
+ Python: For data cleaning, analysis, and visualization.
   
 -Pandas: For data manipulation and analysis.
 
