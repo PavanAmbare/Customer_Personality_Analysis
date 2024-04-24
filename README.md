@@ -68,10 +68,15 @@ Provided recommendations for each cluster, such as targeted marketing strategies
   
 ## skills and tools 
 -  Python: For data cleaning, analysis, and visualization.
+  
 -Pandas: For data manipulation and analysis.
+
 -NumPy: For numerical operations.
+
 -Matplotlib and Seaborn: For data visualization.
+
 -Scikit-learn: For machine learning tasks such as clustering.
+
 -Google Colab: For accessing and working with the dataset.
 
 ## Conclusion
